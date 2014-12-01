@@ -1,4 +1,5 @@
 language-pack-en
+openjdk-7-jre
 dse-full
 dse
 dse-hive

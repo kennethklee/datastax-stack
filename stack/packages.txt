@@ -1,0 +1,17 @@
+language-pack-en
+dse-full
+dse
+dse-hive
+dse-pig
+dse-demos
+dse-libsolr
+dse-libtomcat
+dse-libsqoop
+dse-liblog4j
+dse-libmahout
+dse-libhadoop-native
+dse-libcassandra
+dse-libhive
+dse-libpig
+dse-libhadoop
+opscenter
